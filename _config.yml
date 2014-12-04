@@ -3,9 +3,9 @@
 title: LinkedIn Export Tool
 locale: en_US
 description: Easy way to save contacts
-logo:
+logo: logo-400.png
 search: false
-url: 
+url: http://linkedinexporttool.com/
 
 
 # Jekyll configuration
@@ -33,11 +33,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Alexander Bobreshov
-  avatar: bio-photo.jpg
-  email: you@email.com
+  avatar: AlexB-400.jpg
+  email: li.exporttool@gmail.com
   disqus-shortname:
   github: 
-  linkedin: alexander-bobreshov/3a/b13/15a
+  linkedin:
   google:
     plus: #username
     analytics:
