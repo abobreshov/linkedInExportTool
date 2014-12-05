@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Page under construction"
+title: "Version 0.6.0.x"
 modified:
-categories: blog
+categories: news
 excerpt:
 tags: []
 image:
@@ -10,4 +10,5 @@ image:
 date: 2014-12-01T15:39:55-04:00
 ---
 
-*Coming soon*
+#####Release Notes:
+....
