@@ -10,5 +10,5 @@ image:
 date: 2014-12-01T16:39:55-04:00
 ---
 
-LinkedIn Export Tool does not store or use your personal information. All information store in chrome local storage. Information about chrome storage you can find here.
+LinkedIn Export Tool does not store or use your personal information. All information store in chrome local storage. Information about chrome storage you can find [here](https://developer.chrome.com/apps/storage).
 
