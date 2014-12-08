@@ -8,6 +8,7 @@ If you a recruter it can be very useful for finding candidates.
 Also it could be helpful for leads finding. 
 
 Features:
+
 * Easy to use, free and without any ads
 * Export more than 1K connection per day
 * Save your time upto 10 hours per week
