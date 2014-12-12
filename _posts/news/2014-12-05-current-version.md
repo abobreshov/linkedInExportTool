@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Version 0.7.0.x Release Notes"
+title: "Version 0.8.0.x Release Notes"
 modified:
 categories: news
 excerpt:

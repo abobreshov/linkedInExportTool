@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About LinkedIn Export Tool Project
 excerpt: "Page under construction"
 image:
