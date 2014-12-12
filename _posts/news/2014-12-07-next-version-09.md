@@ -11,7 +11,9 @@ date: 2014-12-01T15:39:55-04:00
 ---
 
 #####Plan:
+
 New features:
+
 * Export connections from People Search Page
 * Export connections from Groups
 
