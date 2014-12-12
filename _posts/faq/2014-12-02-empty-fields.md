@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Why some fields are empty in an exported file?"
 modified:
 categories: faq

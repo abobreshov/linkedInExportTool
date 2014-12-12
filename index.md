@@ -1,23 +1,19 @@
 ---
 layout: page
 ---
-####Easily export Linkedin 1st connections to XML or CSV file
+####Easily export Linkedin connections to XML or CSV file
 
-This extension enables you to export first connections in Linkedin to Excel readable XML or CSV file.
-If you a recruter it can be very useful for finding candidates.
-Also it could be helpful for leads finding. 
+The extension give you ability to export connections in Linkedin to Excel readable XML or CSV file.
 
-Features:
-
-* Easy to use, free and without any ads
+* Easy to use and without any ads
 * Export more than 1K connection per day
 * Save your time upto 10 hours per week
+* Can export contacts of particular contact
 
-Exported Fields: Full Name, Email, Phone, Location, Title, Industry, Company, Company Url, Distance, IM, Twitter, Profile Url
+Looking for leads? Maybe need to find a right candidate? The tool can be very useful for you. Exported to excel contacts can be easily imported to CRM. 
+Has a lots of contacts to export?
 
-How to Use <!-- make it as reference -->
-
-For bug reports or additional information, please write to li.exporttool@gmail.com
+Exported Fields: __Full Name__, __Email__, __Phone__, __Location__, __Title__, __Industry__, __Company__, __Company Url__, __Distance__, __IM__, __Website__, __Profile Url__
 
 
 <ul class="post-list">

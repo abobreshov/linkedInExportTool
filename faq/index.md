@@ -1,5 +1,5 @@
 ---
-layout: nologopage
+layout: page
 title: F.A.Q.
 excerpt:
 ---

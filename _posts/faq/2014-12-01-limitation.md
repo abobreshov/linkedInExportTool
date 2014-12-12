@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "LinkedIn bans me. Can't get access to LinkedIn site. What should I do?"
 modified:
 categories: faq
