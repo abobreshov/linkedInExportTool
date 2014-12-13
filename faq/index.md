@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: alt-page2
 title: F.A.Q.
 excerpt:
 ---

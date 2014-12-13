@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About LinkedIn Export Tool Project
+layout: alt-page
+title:
 excerpt: "Page under construction"
 image:
   feature:

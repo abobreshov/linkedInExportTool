@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nologopage
 title: "Why some fields are empty in an exported file?"
 modified:
 categories: faq

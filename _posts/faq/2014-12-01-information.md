@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nologopage
 title: "Does tool send or store my information somewhere?"
 modified:
 categories: faq

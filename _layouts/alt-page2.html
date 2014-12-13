@@ -7,16 +7,18 @@
 {% include head.html %}
 </head>
 
-<body id="nologopage">
+<body id="post">
 
 {% include alt-navigation.html %}
 
 <div id="main" role="main">
-  <article class="entry">
+  <article class="hentry">
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title" style="text-align: center">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
+        <h1 class="entry-title" style="text-align: center">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
       </header>
+      <footer class="entry-meta">
+      </footer>
       <div class="entry-content">
         {{ content }}
       </div><!-- /.entry-content -->

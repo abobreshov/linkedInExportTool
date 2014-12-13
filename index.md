@@ -11,7 +11,7 @@ The extension give you ability to export connections in Linkedin to Excel readab
 * Can export contacts of particular contact
 
 Looking for leads? Maybe need to find a right candidate? The tool can be very useful for you. Exported to excel contacts can be easily imported to CRM. 
-Has a lots of contacts to export?
+Has a lot of contacts to export? Just try this tool and find out how it could save your time on routine work.
 
 Exported Fields: __Full Name__, __Email__, __Phone__, __Location__, __Title__, __Industry__, __Company__, __Company Url__, __Distance__, __IM__, __Website__, __Profile Url__
 
