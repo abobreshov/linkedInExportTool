@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2014-12-02T15:39:55-04:00
+date: 2014-12-01T15:39:55-04:00
 ---
 
 LinkedIn has flexible privacy settings, some users don't want share sensitive information. The tool try to get maximum information about the contact, but due to contact privacy settings some fields could be empty. 

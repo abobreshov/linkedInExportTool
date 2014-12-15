@@ -16,7 +16,7 @@ Has a lot of contacts to export? Just try this tool and find out how it could sa
 Exported Fields: __Full Name__, __Email__, __Phone__, __Location__, __Title__, __Industry__, __Company__, __Company Url__, __Distance__, __IM__, __Website__, __Profile Url__
 
 
-<ul class="post-list">
+<ul class="post-list-alt">
 {% for post in site.categories.news %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}

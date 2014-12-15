@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2014-12-01T16:39:55-04:00
+date: 2014-12-09T16:39:55-04:00
 ---
 
 Due to [LinkedIn limitations](https://developer.linkedin.com/documents/throttle-limits) you can't export more than 1.5K per day. The idea of limits is that you can't visit more than 1.5K pages per day. If you do so you will be banned by the end of a day (UTC 00:00). 
