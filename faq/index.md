@@ -4,21 +4,23 @@ title: F.A.Q.
 excerpt:
 ---
 
-+ [How to Use LinkedIn Export Tool to extract your connections][]
++ [How to Use LinkedIn Export Tool to extract your connections](#question1)
 
-+ [LinkedIn bans me. Can't get access to LinkedIn site. What should I do?][]
++ [LinkedIn bans me. Can't get access to LinkedIn site. What should I do?](#question2)
 
-+ [Why some fields are empty in the output file?][]
++ [Why some fields are empty in the output file?](#question3)
 
-+ [XML does not open properly on MAC. How to export contacts to CSV?][]
++ [XML does not open properly on MAC. How to export contacts to CSV?](#question4)
 
-+ [How to inform about troubles?][]
++ [How to inform about troubles?](#question5)
 
-+ [Does the tool send or store my information somewhere?][]
++ [Does the tool send or store my information somewhere?](#question6)
 
 <hr>
 
 #####How to Use LinkedIn Export Tool to extract your connections:
+
+<a name="question1"/>
 
 * Install the extension from [Google Chrome Webstore](https://chrome.google.com/webstore/detail/linkedin-export-tool/kgipmhdegifoehfbbffcfbmpfmbjaiem)
 * Open Linkedin in Chrome
@@ -27,7 +29,7 @@ excerpt:
 * Click on extension icon (in the right side of chrome address bar) and start the export
 * When the download is completed open xml or csv file in Excel
 
-<hr>
+<hr><a name="question2"/>
 
 #####LinkedIn bans me. Can't get access to LinkedIn site. What should I do?
 
@@ -39,14 +41,14 @@ In order to extract information about contact export tool gets contact's page wi
 
 You should find a balance between automatic export and manual work with LinkedIn.
 
-<hr>
+<hr> <a name="question3"/>
 
 #####Why some fields are empty in the output file?
 
 LinkedIn has flexible privacy settings, some users don’t want to share sensitive information. The tool try to get maximum information about the contact, but due to the privacy settings some fields could be empty. 
 If you see that user has this information and you can manually find it, please contact us and if it is possible switch on a debug mode on the extension settings page and send us a log file.
 
-<hr>
+<hr><a name="question4"/>
 
 #####XML does not open properly on MAC. How to export contacts to CSV?
 
@@ -54,7 +56,7 @@ In order to get a CSV file instead of XML, please, go to the extension option pa
 
 ![Export Format]({{ site.url }}/images/settings-export-format.PNG)
 
-<hr>
+<hr> <a name="question5"/>
 
 #####How to inform about troubles and send logs?
 
@@ -62,7 +64,7 @@ If you run into any issue and whant to fix it, please, write an email with descr
 
 To write logs you need to switch on debug mode under the extension option page (chrome://extensions/).
 
-<hr>
+<hr> <a name="question6"/>
 
 #####Does the tool send or store my information somewhere?
 
