@@ -1,19 +1,21 @@
 ---
 layout: page
 ---
-####Easily export Linkedin connections to XML or CSV file
+####Worthwhile Google Chrome extension to extract your data from LinkedIn
 
-The extension give you ability to export connections in Linkedin to Excel readable XML or CSV file.
+LinkedIn Export Tool allows you to export LinkedIn connections into Excel readable XML or CSV file.
 
 * Easy to use and without any ads
-* Export more than 1K connection per day
+* Export more than 1K connections per day
 * Save your time upto 10 hours per week
 * Can export contacts of particular contact
 
-Looking for leads? Maybe need to find a right candidate? The tool can be very useful for you. Exported to excel contacts can be easily imported to CRM. 
-Has a lot of contacts to export? Just try this tool and find out how it could save your time on routine work.
+Are you working with prospects or searching for the right candidate in LinkedIn? 
+You want to manage and store all your connections locally BUT you’ve got too much contacts to do it manually ? 
+LinkedIn Export Tool is essential for you to have. An output file is simple to read and modify, it can be easily imported into CRM or other data base.  Just try this tool and realise that you can save your time for something more enjoyable.
 
-Exported Fields: __Full Name__, __Email__, __Phone__, __Location__, __Title__, __Industry__, __Company__, __Company Url__, __Distance__, __IM__, __Website__, __Profile Url__
+
+Exported Fields: __Full Name__, __Bithday__, __Email__, __Phone__, __Location__, __Title__, __Industry__, __Company__, __Company Url__, __Distance__, __IM__, __Website__, __Profile Url__
 
 
 <ul class="post-list-alt">
