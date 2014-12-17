@@ -6,13 +6,13 @@ excerpt:
 
 <hr>
 
-#####How to Use:
+#####How to Use LinkedIn Export Tool to extract your connections:
 
 * Install the extension from [Google Chrome Webstore](https://chrome.google.com/webstore/detail/linkedin-export-tool/kgipmhdegifoehfbbffcfbmpfmbjaiem)
-* Open Linkedin
-* Click on “Connections” tab
+* Open Linkedin in Chrome
+* Click on “Connections” tab 
 * Select connections you would like to export (_if tick off  “select all” connections, please scroll down until the end of the page to make sure all your connections have been downloaded_)
-* Click on extension icon (right side of address bar) and start the export
+* Click on extension icon (in the right side of chrome address bar) and start the export
 * When the download is completed open xml or csv file in Excel
 
 <hr>
