@@ -1,8 +1,20 @@
 ---
-layout: nologopage
+layout: alt-page2
 title: F.A.Q.
 excerpt:
 ---
+
++ [How to Use LinkedIn Export Tool to extract your connections][]
+
++ [LinkedIn bans me. Can't get access to LinkedIn site. What should I do?][]
+
++ [Why some fields are empty in the output file?][]
+
++ [XML does not open properly on MAC. How to export contacts to CSV?][]
+
++ [How to inform about troubles?][]
+
++ [Does the tool send or store my information somewhere?][]
 
 <hr>
 
