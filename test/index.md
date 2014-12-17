@@ -23,7 +23,7 @@ Due to [LinkedIn limitations](https://developer.linkedin.com/documents/throttle-
 
 In order to extract information about contact export tool gets contact's page witch affect limitations. The best way to work with export tool extension and LinkedIn during the day is to change limits on LinkedIn Export Tool settings page (I suggest to set it ~1K and it is by default).
 
-![Set Limits]({{ site.url }}/images/settings-limits.PNG){: .pull-right}
+![Set Limits]({{ site.url }}/images/settings-limits.PNG)
 
 You should find a balance between automatic export and manual work with LinkedIn.
 
