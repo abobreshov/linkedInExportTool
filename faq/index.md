@@ -4,23 +4,21 @@ title: F.A.Q.
 excerpt:
 ---
 
-+ [How to Use LinkedIn Export Tool to extract your connections](#question1)
+1. [How to Use LinkedIn Export Tool to extract your connections](#question1)
 
-+ [LinkedIn bans me. Can't get access to LinkedIn site. What should I do?](#question2)
+2. [LinkedIn bans me. Can't get access to LinkedIn site. What should I do?](#question2)
 
-+ [Why some fields are empty in the output file?](#question3)
+3. [Why some fields are empty in the output file?](#question3)
 
-+ [XML does not open properly on MAC. How to export contacts to CSV?](#question4)
+4. [XML does not open properly on MAC. How to export contacts to CSV?](#question4)
 
-+ [How to inform about troubles?](#question5)
+5. [How to inform about troubles?](#question5)
 
-+ [Does the tool send or store my information somewhere?](#question6)
+6. [Does the tool send or store my information somewhere?](#question6)
 
-<hr>
+<hr><a name="question1"/>
 
 #####How to Use LinkedIn Export Tool to extract your connections:
-
-<a name="question1"/>
 
 * Install the extension from [Google Chrome Webstore](https://chrome.google.com/webstore/detail/linkedin-export-tool/kgipmhdegifoehfbbffcfbmpfmbjaiem)
 * Open Linkedin in Chrome
