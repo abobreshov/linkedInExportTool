@@ -1,6 +1,6 @@
 ---
 layout: alt-page
-title: "Version 0.8.0.x Release Notes"
+title: "Version 0.8.3.x Release Notes"
 modified:
 categories: news
 excerpt:
@@ -16,5 +16,6 @@ date: 2014-12-02T15:39:55-04:00
 * New fields added - IM, Phone, Website, Birthday
 * Fast ligthweigth export feature - export contact information (Full Name, Title, Company) without getting contact's page. It is faster and safe for ban way to export information
 * Export contacts of contact from particular contact page. Now you can export contacts of contact if particular contact allow you to see them (depends on contact privacy settings) 
+* Do not need to scroll to the end of the your contact list from now
 * Bug fixing
 
