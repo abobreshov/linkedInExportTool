@@ -1,5 +1,6 @@
 ---
 layout: page
+excerpt:  LinkedIn Export Tool extension for Chrome browser is an easy way to extract connections to Excel CSV or XML file
 ---
 ####Worthwhile Google Chrome extension to extract your data from LinkedIn
 
@@ -16,6 +17,7 @@ LinkedIn Export Tool is essential for you to have. An output file is simple to r
 
 
 Exported Fields: __Full Name__, __Bithday__, __Email__, __Phone__, __Location__, __Title__, __Industry__, __Company__, __Company Url__, __Distance__, __IM__, __Website__, __Profile Url__
+
 
 
 <ul class="post-list-alt">
