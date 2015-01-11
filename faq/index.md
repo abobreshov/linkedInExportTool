@@ -44,7 +44,7 @@ You should find a balance between automatic export and manual work with LinkedIn
 #####Why some fields are empty in the output file?
 
 LinkedIn has flexible privacy settings, some users don’t want to share sensitive information. The tool try to get maximum information about the contact, but due to the privacy settings some fields could be empty. 
-If you see that user has this information and you can manually find it, please contact us and if it is possible switch on a debug mode on the extension settings page and send us a log file.
+If you see that user has this information and you can manually find it, please contact us and if it is possible.
 
 <hr><a name="question4"/>
 

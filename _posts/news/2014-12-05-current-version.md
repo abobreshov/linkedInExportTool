@@ -1,6 +1,6 @@
 ---
 layout: alt-page
-title: "Version 0.8.4.x Release Notes"
+title: "Version 0.9.0.x Release Notes"
 modified:
 categories: news
 excerpt:
@@ -12,10 +12,10 @@ date: 2014-12-02T15:39:55-04:00
 
 #####Release Notes:
 
-* Session export feature - now you can export more than your daily export limit. For example your daily limit is 1000 and you want to export 2500 contacts. To do so you just need 3 days - tool just export 1000 and store export session information in local storage. Next day you can continue exporting next 1000 contacts from history menue. And after next day you will have to resume exporting again to download last 500 contacts. During exporting you can download transitional results from extension settings page 
-* New fields added - IM, Phone, Website, Birthday
-* Fast ligthweigth export feature - export contact information (Full Name, Title, Company) without getting contact's page. It is faster and safe for ban way to export information
-* Export contacts of contact from particular contact page. Now you can export contacts of contact if particular contact allow you to see them (depends on contact privacy settings) 
-* Do not need to scroll to the end of the your contact list from now
+* Debug Mode has removed
 * Bug fixing
+* Now extension is partially free - it is only one possible way to continue support this extension
+* Added - people search export, group members export for subscribed users
+* Pause feature
+* By default maximum for a day limit is 500 for not subscribed users
 
