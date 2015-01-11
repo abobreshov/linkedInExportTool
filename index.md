@@ -12,6 +12,8 @@ LinkedIn Export Tool allows you to export LinkedIn connections into Excel readab
 * Export more than 1K connections per day
 * Save your time upto 10 hours per week
 * Can export contacts of particular contact
+* Can export your search results
+* Can export members of group
 
 Are you working with prospects or searching for the right candidate in LinkedIn? 
 You want to manage and store all your connections locally BUT you’ve got too much contacts to do it manually ? 

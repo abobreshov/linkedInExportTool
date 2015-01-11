@@ -22,9 +22,9 @@ excerpt:
 
 * Install the extension from [Google Chrome Webstore](https://chrome.google.com/webstore/detail/linkedin-export-tool/kgipmhdegifoehfbbffcfbmpfmbjaiem)
 * Open Linkedin in Chrome
-* Click on “Connections” tab 
-* Select connections you would like to export (_if tick off  “select all” connections, please scroll down until the end of the page to make sure all your connections have been downloaded_)
-* Click on extension icon (in the right side of chrome address bar) and start the export
+* Go to "Connections"/"Any profile"/"Advanced Search"/"Group Members" tab 
+* Select connections you would like to export (if possible) 
+* Click on extension icon (in the right side of chrome address bar) and start the export full or lite export
 * When the download is completed open xml or csv file in Excel
 
 <hr><a name="question2"/>
